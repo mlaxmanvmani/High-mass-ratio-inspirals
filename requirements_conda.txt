@@ -1,0 +1,13 @@
+astropy
+dill
+jax
+joblib
+mpmath
+numdifftools
+numpy
+pandas
+pathos
+python-lal
+python-lalsimulation
+scipy
+sympy

@@ -1,0 +1,12 @@
+astropy=5.0.1
+dill=0.3.4
+jax=0.3.0
+mpmath=1.2.1
+numdifftools=0.9.39
+numpy=1.22.2
+pandas=1.4.1
+python-lal=7.1.6
+python-lalsimulation=3.1.1
+scipy=1.8.0
+sympy=1.9
+tqdm=4.63.0
